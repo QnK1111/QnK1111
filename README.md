@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+✨**My name is Kacper and I am studying Computer Science in Kraków.**✨
+
+
 <!--
 **QnK1111/QnK1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
