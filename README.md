@@ -4,6 +4,8 @@
 
 GitHub Pages website:
 - https://qnk1111.github.io/
+Azure website:
+- https://kacperd-narzedzia.azurewebsites.net/
 
 Projects:
 - https://github.com/QnK1/timer [WIP]
