@@ -7,6 +7,7 @@ GitHub Pages website:
 
 Azure website:
 - https://kacperd-narzedzia.azurewebsites.net/
+<br>
 
 Interesting concept from Papers with Code:
 - https://paperswithcode.com/paper/dragvideo-interactive-drag-style-video
