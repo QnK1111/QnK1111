@@ -10,6 +10,7 @@ Azure website:
 
 Interesting concept from Papers with Code:
 - https://paperswithcode.com/paper/dragvideo-interactive-drag-style-video
+  
 Fork of the repository:
 - https://github.com/QnK1111/DragVideo-Official
 
