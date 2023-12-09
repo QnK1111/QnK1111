@@ -14,7 +14,8 @@ Interesting concept from Papers with Code:
 Fork of the repository:
 - https://github.com/QnK1111/DragVideo-Official
 
-
+\n
+\n
 
 Projects:
 - https://github.com/QnK1/timer [WIP]
