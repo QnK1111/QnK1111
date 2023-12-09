@@ -8,6 +8,13 @@ GitHub Pages website:
 Azure website:
 - https://kacperd-narzedzia.azurewebsites.net/
 
+Interesting concept from Papers with Code:
+- https://paperswithcode.com/paper/dragvideo-interactive-drag-style-video
+Fork of the repository:
+- https://github.com/QnK1111/DragVideo-Official
+
+
+
 Projects:
 - https://github.com/QnK1/timer [WIP]
 
